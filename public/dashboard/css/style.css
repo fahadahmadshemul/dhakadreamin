@@ -1,0 +1,19 @@
+.select2-container .select2-selection--single {
+    height: 36px!important;
+}
+
+.btn-custom-color{
+    color: #fff;
+    background-color: #062538;
+    border-color: #062538;
+    box-shadow: none;
+}
+
+.btn-custom-color:hover {
+    color: #fff;
+}
+.error{
+    color:rgb(216, 3, 3);
+    font-style: italic;
+    font-size:14px;
+}
